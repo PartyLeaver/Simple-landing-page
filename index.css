@@ -1,0 +1,87 @@
+.D1{
+    float: left;
+    margin-right: 10px;
+    margin-left: 40px;
+}
+.i1{
+    height: 30px;
+    width: 110px;
+    color: aliceblue;
+    margin-top: 10px;
+}
+.slash{
+    margin-top: 10px;
+}
+.D2{
+    border-width: 20px;
+}
+.D3{
+    width: 100%;
+    background-color: aliceblue;
+    height: 50px;
+    margin-bottom: 40px;
+}
+.bTop{
+    margin-top: 13px;
+}
+button{
+    border-width: 0;
+    background-color: aliceblue;
+}
+.b2{
+    float: right;
+    margin-right: 50px;
+    background-color: rgb(47, 255, 75);
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.b1{
+    float: right;
+    margin-right: 50px;
+    height: 30px;
+    margin-top: 10px;
+}
+.MainD1{
+
+}
+.leftD1{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 30%;
+}
+.p1{
+    color: rgb(0, 89, 255);
+}
+.rightD1{
+    float: right;
+    width: 50%;
+}
+.i2{
+    width: 1000px;
+    border-radius: 20px;
+    float: right;
+    margin-right: 80px;
+}
+.b3{
+    background-color: rgb(0, 162, 255);
+    height: 36px;
+    width:200px;
+    border-radius: 36px;
+}
+.i3{
+    height: 25px;
+}
+.b4{
+    margin-left: 20px;
+    border-radius: 36px;
+    width: 200px;
+    height: 36px;
+}
+p{
+    color: dimgray;
+}
+.inBigD1Bottom1{
+    
+}
